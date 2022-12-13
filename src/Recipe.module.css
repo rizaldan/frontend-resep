@@ -1,0 +1,22 @@
+.Recipe{
+border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background: whitesmoke;
+    min-width: 40%;
+}
+
+.Image{
+    padding-right: 20px;
+    height: 220px;
+    align-content: center;
+    width: 220px;
+}
+
+.textSize{
+    font-size: 13px;
+
+}
